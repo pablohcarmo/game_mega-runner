@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TouchInput.cs">
+    <Files>
+      <File FileName="Assets\Scripts\megaMan.cs" Line="103" Column="2" />
+      <File FileName="Assets\Scripts\soundController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\buttonFunctions.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\moveOffset.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\buttons.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TouchInput.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
